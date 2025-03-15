@@ -1,0 +1,9 @@
+git+https://github.com/Lu-Yi-Hsun/iqoptionapi.git
+pandas
+numpy
+TA-Lib
+scikit-learn  # Mantenido por compatibilidad, opcional ahora
+tensorflow
+joblib
+pytest  # Opcional
+websocket-client
